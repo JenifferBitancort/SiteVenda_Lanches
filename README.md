@@ -1,12 +1,11 @@
 <h1 align="center" >
-    <img width="100" height="100" src="https://github.com/JenifferBitancort/SiteVenda_Lanches/assets/137184265/834be48b-7773-47f6-9ea5-1de3e46794fb" />   
+    <img width="100" height="100" src="https://github.com/JenifferBitancort/SiteVenda_Lanches/assets/137184265/94848eff-1fc2-451d-956c-5741cb705484" />   
 <p>Site de venda de Lanches</p>
 </h1>
 
-
 Projeto em Asp.Net Core MVC que apresenta um site completo de vendas.
 
-<img src="https://github.com/JenifferBitancort/SiteVenda_Lanches/assets/137184265/cd97c6f2-984c-408a-b3c3-073ec78eefd4" />
+![Dropdown com as categorias](https://github.com/JenifferBitancort/SiteVenda_Lanches/assets/137184265/59a40fb5-7964-4725-94f6-72b831e94a26)
 
 
 
@@ -19,8 +18,12 @@ Projeto em Asp.Net Core MVC que apresenta um site completo de vendas.
 - Formulário para finalizar pedido
 - Detalhes do pedido
 
+[SiteVendas 1 (video-converter.com).webm](https://github.com/JenifferBitancort/SiteVenda_Lanches/assets/137184265/871f23f5-882b-4760-9380-0ab183e56133)
 
-Aréa do Administrador:
+
+
+
+Área do Administrador:
 - Gerenciar Lanches (Criar, ler, editar, excluir)
 - Gerar relatório de Lanches
 - Gerenciar Categorias (Criar, ler, editar, excluir)
@@ -28,6 +31,9 @@ Aréa do Administrador:
 - Gerar relatório de vendas (Periódo específico)
 - Gerar graficos (Anual, mensal e semanal)
 - Gerenciar imagens (Upload e visualização de imagens)
+
+
+https://github.com/JenifferBitancort/SiteVenda_Lanches/assets/137184265/e62ef139-3f17-4b7b-9beb-119c2edd3fce
 
 
 
